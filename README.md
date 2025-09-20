@@ -25,7 +25,7 @@ Allows you to **add**, **edit**, and **delete** contacts from a MySQL database.
 
 <img width="961" height="412" alt="image" src="https://github.com/user-attachments/assets/0a36b152-32eb-4160-b843-39b014b4c91e" />
 
-#UPDATE
+# UPDATE
 
 <img width="945" height="370" alt="image" src="https://github.com/user-attachments/assets/8bb6fd7c-e615-43d3-b6cb-41974b01e66f" />
 <img width="933" height="401" alt="image" src="https://github.com/user-attachments/assets/c08aff99-693f-4862-a982-d22b3dce7631" />
